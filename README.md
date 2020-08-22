@@ -1,4 +1,7 @@
 ### Hi there It's me Davis alias Don👋
+
+[![HitCount](http://hits.dwyl.com/davisnyabwari1/davisnyabwari1.svg)](http://hits.dwyl.com/davisnyabwari1/davisnyabwari1)
+
 Gist About me
 
 - 🔭 I am a Computer science student,passionate in programming and network security.
